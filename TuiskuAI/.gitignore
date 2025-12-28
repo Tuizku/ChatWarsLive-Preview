@@ -1,0 +1,85 @@
+## Visual Studio ###
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+## Build results ###
+bin/
+obj/
+out/
+[Bb]uild/
+[Ll]og/
+
+## .NET ###
+# Ignore auto-generated build artifacts
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET Scaffolding (not used in class libs but safe to ignore)
+ScaffoldingReadMe.txt
+
+## NuGet ###
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+# If you use package restore, ignore the packages folder
+**/packages/*
+# except build scripts
+!**/packages/build/
+# Ignore global NuGet cache
+%USERPROFILE%/.nuget/packages/
+
+## Roslyn / Analyzers ###
+*.cache
+*.ide
+*.editorconfig.generated
+
+## Logs and databases ###
+*.log
+*.tlog
+*.svclog
+*.sdf
+*.v12.suo
+
+## Build artifacts from old VS versions ###
+*.dbmdl
+*.bak
+*.Backup
+*.tmp
+
+## Rider / JetBrains ###
+.idea/
+*.ipr
+*.iws
+
+## OS files ###
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## DotCover ###
+.idea/.dotCover
+
+## Visual Studio Code ###
+.vscode/
+
+## Temporary files ###
+*.tmp
+*.temp
+*.TMP
+*.TEMP
+
+## Auto-generated files ###
+Generated/
+*.g.cs
+*.g.i.cs

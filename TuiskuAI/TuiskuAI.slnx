@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TuiskuAI.nUnitTests/TuiskuAI.nUnitTests.csproj" Id="ac8be7a6-fd8f-47aa-a8f4-8c59b7e06e53" />
+  <Project Path="TuiskuAI/TuiskuAI.csproj" />
+</Solution>
