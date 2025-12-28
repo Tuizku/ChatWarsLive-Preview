@@ -1,6 +1,11 @@
 # ChatWarsLive-Preview
 A preview for a project that combines Unity, WebSockets and Evolution-AI into an autonomous game which will be streamed on Twitch.
 
+The basic idea is that we have various minigames where player-bots fight each other, and people in Twitch can control and manipulate what happens in the game. Maybe a spontaneus loot drop or a tornado that sucks players toward itself?
+The possibilities are almost endless, but the fundamental principles stay the same.
+
+The players are controlled by real AI's, that have been trained with the help of my TuiskuAI library.
+
 Below you can see some screenshots/clips of the project in development. I've also included the TuiskuAI C# library in this repository, because it's the most ready part of this project.
 Hopefully you can understand something out of this project, even though for the vague explanation. I'd be happy to answer any possible questions about this project.
 
