@@ -1,7 +1,22 @@
 Copyright (c) 2025 Tuizku
-
 All rights reserved.
 
-No permission is granted to use, copy, modify, merge, publish,
-distribute, sublicense, or sell this software without explicit
-written permission from the copyright holder.
+This software and associated materials are proprietary and not licensed
+for use beyond evaluation.
+
+Permission is granted to view, clone, run, and make temporary local
+modifications to this repository solely for the purpose of evaluation,
+review, and assessment of the author's work, including running unit tests
+and example applications.
+
+Such temporary local modifications do not constitute permission to
+create or retain derivative works.
+
+No permission is granted to:
+- use this software in any commercial or non-commercial product
+- copy or reuse code, algorithms, or designs
+- create derivative works
+- redistribute or sublicense the software
+
+Any use beyond evaluation requires explicit written permission
+from the copyright holder.
