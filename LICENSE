@@ -1,22 +1,22 @@
 Copyright (c) 2025 Tuizku
 All rights reserved.
 
-This software and associated materials are proprietary and not licensed
-for use beyond evaluation.
+This software and associated materials are proprietary and are not
+licensed for use beyond evaluation purposes.
 
-Permission is granted to view, clone, run, and make temporary local
-modifications to this repository solely for the purpose of evaluation,
-review, and assessment of the author's work, including running unit tests
-and example applications.
+Permission is granted to view, clone, and run this repository solely for
+the purpose of evaluation, review, and assessment of the author's work,
+including running unit tests and example applications.
 
-Such temporary local modifications do not constitute permission to
-create or retain derivative works.
+You may make temporary local modifications strictly as necessary for
+evaluation. Such modifications may not be published, retained, reused,
+or incorporated into any other work.
 
 No permission is granted to:
 - use this software in any commercial or non-commercial product
-- copy or reuse code, algorithms, or designs
-- create derivative works
+- copy, reuse, or reference code, algorithms, or designs
+- create or distribute derivative works
 - redistribute or sublicense the software
 
-Any use beyond evaluation requires explicit written permission
-from the copyright holder.
+Any use beyond evaluation requires explicit written permission from the
+copyright holder.
